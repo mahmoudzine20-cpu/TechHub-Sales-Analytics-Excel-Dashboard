@@ -1,6 +1,7 @@
 📊 TechHub Sales Analytics – Excel Dashboard
 > End-to-end Business Intelligence project built **entirely in Excel**: messy CSV files → **Power Query** cleaning → **Power Pivot** star schema → **Pivot Tables** → an interactive **Dashboard** with slicers and a timeline.
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](<img width="558" height="263" alt="Screenshot 2026-11-15 153726" src="https://github.com/user-attachments/assets/c34e6a8e-8690-43f3-9253-6f56f6a5aeb2" />
+)
 ---
 📌 Table of Contents
 Project Overview
@@ -80,7 +81,8 @@ Result: a clean, consistent `Orders` fact table with a proper `date` column, rea
 ---
 🧱 Stage 2 – Data Modeling (Power Pivot Star Schema)
 The cleaned tables were loaded to the Data Model and organized as a star schema:
-![Star Schema](images/data_model.png)
+![Star Schema](<img width="726" height="371" alt="Screenshot 2026-11-15 153805" src="https://github.com/user-attachments/assets/9e3580e0-299a-46dc-99b5-1ee2411624ad" />
+)
 ```
  Customers (1) ──────► (*) Orders (*) ◄────── (1) Products
                                 │
@@ -103,7 +105,8 @@ Total Customers = distinct count of `CustomerID`
 ---
 📑 Stage 3 – Analysis with Pivot Tables
 Pivot tables were built on the Data Model to feed the dashboard KPIs and charts:
-![Pivot Tables](images/pivot_tables.png)
+<img width="465" height="265" alt="Screenshot 2026-11-15 153912" src="https://github.com/user-attachments/assets/662f7bae-fc6f-4b0d-9044-04f40288bf4c" />
+
 Pivot Table	Fields
 KPI cards	Total Customers, Total Sales, Total Orders, Total Quantity
 Sales by Category	Category → Total Sales
@@ -116,7 +119,8 @@ Top 5 Products	ProductName with a Top 5 value filter
 ---
 📈 Stage 4 – Dashboard
 The final dashboard ("Dashboard TechHub Company") combines everything on one screen:
-![Dashboard](images/dashboard.png)
+<img width="558" height="263" alt="Screenshot 2026-11-15 153726" src="https://github.com/user-attachments/assets/94990235-c3b6-4095-b2b9-930a755cdef8" />
+
 KPI cards: Total Sales · Total Quantity · Total Orders · Total Customers
 Visuals
 Visual	Chart type

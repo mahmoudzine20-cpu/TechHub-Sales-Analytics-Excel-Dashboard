@@ -138,11 +138,11 @@ Metric	Value
 📦 Total Quantity	108,120 units
 🧾 Total Orders	19,594
 👥 Total Customers	300
-Clothing is the top category by revenue (~$29.1M, 29%), followed by Toys (~$25.4M, 25%). Furniture is the lowest (~$10.4M, 10%).
-Orders and quantities are spread evenly across categories (≈3,800–4,000 orders each), so the revenue gap comes from price differences, not demand.
-Regional sales are very balanced: Mansoura (~$21.0M) leads, with Aswan, Cairo and Giza close behind; Alexandria is lowest (~$18.7M).
-Monthly order volume is stable throughout 2024 (≈1,623–1,644 orders per month), peaking in December (1,644).
-Some products sell high volume but little revenue (e.g. Sofa: ~$0.26M, Headphones: ~$0.89M), which is a pricing/margin opportunity.
+Clothing is the top category by revenue ($29.1M, 29%), followed by Toys ($25.4M, 25%). Furniture is the lowest ($10.4M, 10%).
+Orders and quantities are spread evenly across categories (3,800–4,000 orders each), so the revenue gap comes from price differences, not demand.
+Regional sales are very balanced: Mansoura ($21.0M) leads, with Aswan, Cairo and Giza close behind; Alexandria is lowest ($18.7M).
+Monthly order volume is stable throughout 2024 (1,623–1,644 orders per month), peaking in December (1,644).
+Some products sell high volume but little revenue (e.g. Sofa: ~$0.26M, Headphones: $0.89M), which is a pricing/margin opportunity.
 ---
 🗂 Repository Structure
 ```

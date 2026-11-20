@@ -1,6 +1,7 @@
 📊 TechHub Sales Analytics – Excel Dashboard
 > End-to-end Business Intelligence project built **entirely in Excel**: messy CSV files → **Power Query** cleaning → **Power Pivot** star schema → **Pivot Tables** → an interactive **Dashboard** with slicers and a timeline.
-(<img width="558" height="263" alt="Screenshot 2026-11-15 153726" src="https://github.com/user-attachments/assets/c34e6a8e-8690-43f3-9253-6f56f6a5aeb2" />
+<img width="558" height="258" alt="image" src="https://github.com/user-attachments/assets/c65cf937-a6ec-40c2-b93d-4d00b5b91bf1" />
+
 )
 ---
 📌 Table of Contents
@@ -119,7 +120,8 @@ Top 5 Products	ProductName with a Top 5 value filter
 ---
 📈 Stage 4 – Dashboard
 The final dashboard ("Dashboard TechHub Company") combines everything on one screen:
-<img width="558" height="263" alt="Screenshot 2026-11-15 153726" src="https://github.com/user-attachments/assets/94990235-c3b6-4095-b2b9-930a755cdef8" />
+<img width="558" height="258" alt="image" src="https://github.com/user-attachments/assets/06237040-9b44-4c60-a71e-c18eda010cef" />
+
 
 KPI cards: Total Sales · Total Quantity · Total Orders · Total Customers
 Visuals
